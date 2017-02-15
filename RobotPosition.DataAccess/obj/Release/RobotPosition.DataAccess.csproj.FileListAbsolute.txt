@@ -1,0 +1,14 @@
+C:\Projects\MartianRobots\RobotPositionService\RobotPosition.DataAccess\bin\Release\RobotPosition.DataAccess.dll
+C:\Projects\MartianRobots\RobotPositionService\RobotPosition.DataAccess\bin\Release\RobotPosition.DataAccess.pdb
+C:\Projects\MartianRobots\RobotPositionService\RobotPosition.DataAccess\bin\Release\RobotPosition.Entity.dll
+C:\Projects\MartianRobots\RobotPositionService\RobotPosition.DataAccess\bin\Release\RobotPosition.Entity.pdb
+C:\Projects\MartianRobots\RobotPositionService\RobotPosition.DataAccess\obj\Release\RobotPosition.DataAccess.csprojResolveAssemblyReference.cache
+C:\Projects\MartianRobots\RobotPositionService\RobotPosition.DataAccess\obj\Release\RobotPosition.DataAccess.dll
+C:\Projects\MartianRobots\RobotPositionService\RobotPosition.DataAccess\obj\Release\RobotPosition.DataAccess.pdb
+C:\projects\RobotPositionService\RobotPositionService\RobotPosition.DataAccess\bin\Release\RobotPosition.DataAccess.dll
+C:\projects\RobotPositionService\RobotPositionService\RobotPosition.DataAccess\bin\Release\RobotPosition.DataAccess.pdb
+C:\projects\RobotPositionService\RobotPositionService\RobotPosition.DataAccess\bin\Release\RobotPosition.Entity.dll
+C:\projects\RobotPositionService\RobotPositionService\RobotPosition.DataAccess\bin\Release\RobotPosition.Entity.pdb
+C:\projects\RobotPositionService\RobotPositionService\RobotPosition.DataAccess\obj\Release\RobotPosition.DataAccess.csprojResolveAssemblyReference.cache
+C:\projects\RobotPositionService\RobotPositionService\RobotPosition.DataAccess\obj\Release\RobotPosition.DataAccess.dll
+C:\projects\RobotPositionService\RobotPositionService\RobotPosition.DataAccess\obj\Release\RobotPosition.DataAccess.pdb

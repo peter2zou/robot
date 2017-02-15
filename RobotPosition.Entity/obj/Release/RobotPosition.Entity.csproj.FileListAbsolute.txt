@@ -1,0 +1,9 @@
+C:\Projects\MartianRobots\RobotPositionService\RobotPosition.Entity\bin\Release\RobotPosition.Entity.dll
+C:\Projects\MartianRobots\RobotPositionService\RobotPosition.Entity\bin\Release\RobotPosition.Entity.pdb
+C:\Projects\MartianRobots\RobotPositionService\RobotPosition.Entity\obj\Release\RobotPosition.Entity.dll
+C:\Projects\MartianRobots\RobotPositionService\RobotPosition.Entity\obj\Release\RobotPosition.Entity.pdb
+C:\projects\RobotPositionService\RobotPositionService\RobotPosition.Entity\bin\Release\RobotPosition.Entity.dll
+C:\projects\RobotPositionService\RobotPositionService\RobotPosition.Entity\bin\Release\RobotPosition.Entity.pdb
+C:\projects\RobotPositionService\RobotPositionService\RobotPosition.Entity\obj\Release\RobotPosition.Entity.csprojResolveAssemblyReference.cache
+C:\projects\RobotPositionService\RobotPositionService\RobotPosition.Entity\obj\Release\RobotPosition.Entity.dll
+C:\projects\RobotPositionService\RobotPositionService\RobotPosition.Entity\obj\Release\RobotPosition.Entity.pdb
