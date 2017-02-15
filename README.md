@@ -8,4 +8,4 @@
 
 5. The application includes unit testings for almost all methods except some async methods. This should be done on real implementation.
 
-6. The application does not provide exception handlers and necessary comments. This should be done on real implementation.
+6. The application does not provide validations, exception handlers and necessary comments. This should be done on real implementation.
